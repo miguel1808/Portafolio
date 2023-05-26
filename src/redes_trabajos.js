@@ -26,7 +26,7 @@ const TRABAJOS = [
       'Pagina web donde se muestran los modelos de inteligencia artificial de prediccion de datos que se han realizado',
     website: 'https://miguel1808-eqa-proyectofinal-streamlit-app-j2zal7.streamlit.app/',
     github: 'https://github.com/miguel1808/EqA-ProyectoFinal',
-    imagen: '../assets/proyectos/ia.png'
+    imagen: '../assets/proyectos/ia.PNG'
   },
   {
     nombre: 'Pagina de apeperia',
@@ -35,7 +35,7 @@ const TRABAJOS = [
       'Pagina web de una empresa de desarrollo web',
     website: 'https://miguel1808.github.io/curso_layout_mobile/',
     github: 'https://github.com/miguel1808/curso_layout_mobile',
-    imagen: '../assets/proyectos/apeperia.png'
+    imagen: '../assets/proyectos/apeperia.PNG'
   },
   {
     nombre: 'Registro de tareas',
@@ -44,7 +44,7 @@ const TRABAJOS = [
       'Pagina web donde podras registrar tus tareas y eliminarlas',
     website: 'https://miguel1808.github.io/JS_Almacenando_Datos_En_El_Navegador/',
     github: 'Registro de tareas',
-    imagen: '../assets/proyectos/tareas.png'
+    imagen: '../assets/proyectos/tareas.PNG'
   },
   {
     nombre: 'Portfolio Web',
@@ -53,7 +53,7 @@ const TRABAJOS = [
       'Portal web donde se muestran los proyectos realizados por mi y toda mi informacion.',
     website: 'https://miguel1808.github.io/Portfolio',
     github: 'https://github.com/miguel1808/Portafolio',
-    imagen: '../assets/proyectos/portafolio.png'
+    imagen: '../assets/proyectos/portafolio.PNG'
   },
   {
     nombre: 'Pagina de noticias de juegos',
@@ -62,7 +62,7 @@ const TRABAJOS = [
       'Pagina de noticias de juegos',
     website: 'https://miguel1808.github.io/grid_oracle/',
     github: 'https://github.com/miguel1808/grid_oracle',
-    imagen: '../assets/proyectos/noticias.png'
+    imagen: '../assets/proyectos/noticias.PNG'
   },
   {
     nombre: 'Juego del ahorcado',
@@ -71,7 +71,7 @@ const TRABAJOS = [
       'Este proyecto simula el clasico juego del ahorcado donde puedes agregar un diccionario de palabras',
     website: 'https://miguel1808.github.io/Juego-del-Ahorcado/',
     github: 'https://github.com/jaenfigueroa/PokeZone',
-    imagen: '../assets/proyectos/ahorcado.png'
+    imagen: '../assets/proyectos/ahorcado.PNG'
   }
 ]
 
